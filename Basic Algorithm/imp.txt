@@ -1,0 +1,6 @@
+
+doubt 31 caseproblem1.c
+doubt 50 (caseProblem4.c)
+53(caseProblem6.c
+
+problemcase10 is important
